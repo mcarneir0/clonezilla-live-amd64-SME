@@ -1,2 +1,1 @@
-# clonezilla-live-amd64-SME
- 
+# Verifique o ramo SME-mod 🙂 
