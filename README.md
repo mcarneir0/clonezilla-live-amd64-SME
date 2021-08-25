@@ -20,4 +20,4 @@
 
 5. [Link](https://drbl.org/faq/fine-print.php?path=./2_System/87_create_clonezilla_iso_from_zip.faq#87_create_clonezilla_iso_from_zip.faq) para referência
 
-> Opcional: modificando Debian Live (```live/filesystem.squashfs```) do Clonezilla [Link](https://drbl.org/faq/fine-print.php?path=./2_System/81_add_prog_in_filesystem-squashfs.faq#81_add_prog_in_filesystem-squashfs.faq)
+> Opcional: [modificando Debian Live do Clonezilla](https://drbl.org/faq/fine-print.php?path=./2_System/81_add_prog_in_filesystem-squashfs.faq#81_add_prog_in_filesystem-squashfs.faq) (```live/filesystem.squashfs```)
