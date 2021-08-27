@@ -20,4 +20,4 @@
 
 5. [Link](https://drbl.org/faq/fine-print.php?path=./2_System/87_create_clonezilla_iso_from_zip.faq#87_create_clonezilla_iso_from_zip.faq) para referência
 
-> Baseado na versão clonezilla-live-2.7.2-39-amd64 ([Link 1](https://osdn.net/projects/clonezilla/downloads/75295/clonezilla-live-2.7.2-39-amd64.zip/) ou [Link 2](https://sourceforge.net/projects/clonezilla/files/clonezilla_live_stable/2.7.2-39/clonezilla-live-2.7.2-39-amd64.zip/download))
+> Opcional: [modificando Debian Live do Clonezilla](https://drbl.org/faq/fine-print.php?path=./2_System/81_add_prog_in_filesystem-squashfs.faq#81_add_prog_in_filesystem-squashfs.faq) (```live/filesystem.squashfs```)
