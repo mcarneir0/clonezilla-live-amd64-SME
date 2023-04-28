@@ -1,3 +1,3 @@
-clonezilla-live-2.7.3-19-amd64
+clonezilla-live-3.0.3-22-amd64
 This Clonezilla live zip file was created by this command:
-ocs-live-dev -c -s --extra-boot-param quiet -y 6.03 -i 2.7.3-19-amd64
+ocs-live-dev -c -s --extra-boot-param quiet loglevel=0 -y 6.03 -i 3.0.3-22-amd64

@@ -18,6 +18,6 @@
 
 4. Execute o comando ```xorriso -as mkisofs -R -r -J -joliet-long -l -cache-inodes -iso-level 3 -isohybrid-mbr /usr/lib/ISOLINUX/isohdpfx.bin -partition_offset 16 -A 'Clonezilla live CD' -b syslinux/isolinux.bin -c syslinux/boot.cat -no-emul-boot -boot-load-size 4 -boot-info-table -eltorito-alt-boot --efi-boot boot/grub/efi.img -isohybrid-gpt-basdat -isohybrid-apm-hfsplus ./ > /tmp/clonezilla-live-amd64-SME.iso``` para criar a ISO
 
-5. [Link](https://drbl.org/faq/fine-print.php?path=./2_System/87_create_clonezilla_iso_from_zip.faq#87_create_clonezilla_iso_from_zip.faq) para referência
+5. [Link](https://drbl.org/fine-print.php?path=./faq/2_System/87_create_clonezilla_iso_from_zip.faq#87_create_clonezilla_iso_from_zip.faq) para referência
 
-> Opcional: [modificando Debian Live do Clonezilla](https://drbl.org/faq/fine-print.php?path=./2_System/81_add_prog_in_filesystem-squashfs.faq#81_add_prog_in_filesystem-squashfs.faq) (```live/filesystem.squashfs```)
+> Opcional: [modificando Debian Live do Clonezilla](https://drbl.org/fine-print.php?path=./faq/2_System/81_add_prog_in_filesystem-squashfs.faq#81_add_prog_in_filesystem-squashfs.faq) (```live/filesystem.squashfs```)
