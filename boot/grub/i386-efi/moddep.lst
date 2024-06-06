@@ -126,7 +126,7 @@ fshelp:
 sleep_test: datetime functional_test
 iorw: extcmd
 efitextmode:
-bli:
+bli: part_gpt
 xnu: bitmap bitmap_scale boot extcmd macho mmap random relocator video
 mmap:
 exfctest: functional_test
